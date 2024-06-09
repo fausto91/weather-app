@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en componente CustomTooltip Deberia de hacer match con el snapshot 1`] = `
+<div>
+  <span
+    aria-label="Temperatura actual"
+    class=""
+    data-mui-internal-clone-element="true"
+  />
+</div>
+`;
